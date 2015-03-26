@@ -1,4 +1,5 @@
 === TinyMCE Pre Button ===
+Contributors: mortalis
 Tags: formatting, tinymce, editor, shortcut, button
 Requires at least: 4.1
 Tested up to: 4.1
